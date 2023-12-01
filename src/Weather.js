@@ -80,7 +80,7 @@ export default function Weather(props) {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/shecodesio/weather"
+            href="https://github.com/Sanelly43/weather/edit/mster/src/weather.js
             target="_blank"
             rel="noopener noreferrer"
           >
